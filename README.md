@@ -142,7 +142,7 @@ For any questions or feedback, feel free to reach out to
 
 Pratik Pandey.
 
-🔗 LinkedIn: 
+🔗 LinkedIn: www.linkedin.com/in/pratikpandey45
 
 Thank you for exploring the Amazon Prime Video EDA project!
 
